@@ -13,7 +13,7 @@ body {
      font-size: 36px;
  }
  nav {
-     background-color: #000000;
+     background-color: #4b87c6;
      color: #ffffff;
      padding: 10px;
  }
@@ -31,8 +31,8 @@ body {
      padding: 10px;
  }
  nav a:hover {
-     background-color: #773737;
-     color: #ab6767;
+     background-color: #1d3e5e;
+     color: #66b3ff;
      border-radius: 5px;
  }
  main {
@@ -65,5 +65,4 @@ p{
 }
 .cat1acceil{ 
     background-color: #1d3e5e;
-    
 }
